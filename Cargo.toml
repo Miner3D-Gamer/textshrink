@@ -5,14 +5,7 @@ edition = "2021"
 description = "Optimize text size using unicode characters, for example: mm -> ㎜"
 license = "MIT"
 authors = ["Miner3D"]
-keywords = [
-    "miner3d",
-    "text",
-    "unicode",
-    "optimization",
-    "compression",
-    "symbols",
-]
+keywords = ["miner3d", "text", "unicode", "optimization", "compression"]
 repository = "https://github.com/Miner3D/textshrink"
 
 
