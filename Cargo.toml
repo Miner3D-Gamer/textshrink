@@ -1,0 +1,23 @@
+[package]
+name = "textshrink"
+version = "0.1.0"
+edition = "2021"
+description = "Optimize text size using unicode characters, for example: mm -> ㎜"
+license = "MIT"
+authors = ["Miner3D"]
+keywords = [
+    "miner3d",
+    "text",
+    "unicode",
+    "optimization",
+    "compression",
+    "symbols",
+]
+
+
+[lib]
+name = "textshrink"
+path = "src/lib.rs"
+
+
+[dependencies]
