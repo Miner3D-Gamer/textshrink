@@ -13,6 +13,7 @@ keywords = [
     "compression",
     "symbols",
 ]
+repository = "https://github.com/Miner3D/textshrink"
 
 
 [lib]
