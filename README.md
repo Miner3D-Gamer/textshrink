@@ -1,1 +1,1 @@
-A minimalistic library to shorten the length of a given string using unicode characters
+A minimalistic lib that reduces text size by replacing specific character sequences with single Unicode characters (e.g., 'mm' becomes '㎜'). On average, this compresses text by ~5%, with variation also ~5%.
