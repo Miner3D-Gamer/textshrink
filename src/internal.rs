@@ -32,14 +32,11 @@ pub fn convert_to_replaceable(
     return map;
 }
 
-pub fn get_common() -> HashMap<String, String> {
-    let common_txt = include_str!("common.txt");
+pub fn get_replacements() -> HashMap<String, String> {
+    let common_txt = include_str!("replacements.txt");
     return convert_to_replaceable(common_txt, "Common".into());
 }
-pub fn get_uncommon() -> HashMap<String, String> {
-    let uncommon_txt = include_str!("uncommon.txt");
-    return convert_to_replaceable(uncommon_txt, "Uncommon".into());
-}
+
 pub fn get_alias() -> Vec<Vec<String>> {
     let alias_txt = include_str!("alias.txt");
     let mut alias = Vec::new();
