@@ -18,6 +18,7 @@ dz ǳ
 'O Ό
 'Y Ύ
 kPa ㎪
+lx ㏓
 pV ㎴
 nV ㎵
 mV ㎷
@@ -28,28 +29,100 @@ nW ㎻
 mW ㎽
 kW ㎾
 MW ㎿
-kt ㏏
 Bq ㏃
 °C ℃
 °F ℉
 ?! ‽
 !? ‽
+mm² ㎟
+cm² ㎠
+m² ㎡
+km² ㎢
+kHz ㎑
+MHz ㎒
+GHz ㎓
+THz ㎔
+kcal ㎉
+Rs ₨
+dm² ㍸
+dm³ ㍹
+PPM ㏙
+hPa ㍱
+oV ㍵
+IU ㍺
+C/kg ㏆
+Co. ㏇
+Gy ㏉
+K.K. ㏍
+V/m ㏞
+A/m ㏟
+IV Ⅳ
+IX Ⅸ
+XII Ⅻ
+II Ⅱ
+VI Ⅵ
+III Ⅲ
+VII Ⅶ
+VIII Ⅷ
+IJ Ĳ
+XI Ⅺ
+ii ⅱ
+iii ⅲ
+iv ⅳ
+vi ⅵ
+vii ⅶ
+viii ⅷ
+ix ⅸ
+xi ⅺ
+xii ⅻ
+SM ℠
+ij ĳ
+oe œ
+(1) ⑴
+(2) ⑵
+(3) ⑶
+(4) ⑷
+(5) ⑸
+(6) ⑹
+(7) ⑺
+(8) ⑻
+(9) ⑼
+(10) ⑽
+(11) ⑾
+(12) ⑿
+(13) ⒀
+(14) ⒁
+(15) ⒂
+(16) ⒃
+(17) ⒄
+(18) ⒅
+(19) ⒆
+(20) ⒇
+PTE ㉐
+Hg ㋌
+erg ㋍
+eV ㋎
+LTD ㋏
+ffi ﬃ
+ffl ﬄ
+ae æ
 # I wanna implement a custom algorithm for this so the number values aren't hardcoded
-# 1/4 ¼
-# 1/2 ½
-# 3/4 ¾
-# 1/7 ⅐
-# 1/9 ⅑
-# 1/10 ⅒
-# 1/3 ⅓
-# 2/3 ⅔
-# 1/5 ⅕
-# 2/5 ⅖
-# 3/5 ⅗
-# 4/5 ⅘
-# 1/6 ⅙
-# 5/6 ⅚
-# 1/8 ⅛
-# 3/8 ⅜
-# 5/8 ⅝
-# 7/8 ⅞
+1/4 ¼
+1/2 ½
+3/4 ¾
+1/7 ⅐
+1/9 ⅑
+1/10 ⅒
+1/3 ⅓
+2/3 ⅔
+1/5 ⅕
+2/5 ⅖
+3/5 ⅗
+4/5 ⅘
+1/6 ⅙
+5/6 ⅚
+1/8 ⅛
+3/8 ⅜
+5/8 ⅝
+7/8 ⅞
+0/3 ↉

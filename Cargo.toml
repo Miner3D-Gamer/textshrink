@@ -1,11 +1,11 @@
 [package]
 name = "textshrink"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
-description = "Optimize text size using unicode characters, for example: mm -> ㎜"
+description = "A minimalistic lib that reduces text size by replacing specific character sequences with single Unicode characters (e.g., 'mm' becomes '㎜'). On average, this compresses text by ~5%, with variation also ~5%."
 license = "MIT"
 authors = ["Miner3D"]
-keywords = ["miner3d", "text", "unicode", "optimization", "compression"]
+keywords = ["text", "unicode", "optimization", "compression"]
 repository = "https://github.com/Miner3D/textshrink"
 
 
